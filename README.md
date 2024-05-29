@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <img height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoqianguo&layout=compact" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
