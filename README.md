@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
+<script src="https://gist.github.com/zhaoqianguo/2fd559e230ea8e3be69c45241af28b73.js"></script>
 <!--END_SECTION:waka-->
 
 <!-- Gif -->
