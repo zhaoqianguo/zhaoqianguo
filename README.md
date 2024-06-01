@@ -38,9 +38,6 @@ Markdown     7 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<a href="https://wakatime.com/@daxigua">
-  <img src="https://wakatime.com/share/2fd559e230ea8e3be69c45241af28b73.svg" />
-</a>
 
 <!-- Gif -->
 <div align="center">
