@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<a href="https://wakatime.com/@daxigua">
+  <img src="https://wakatime.com/share/2fd559e230ea8e3be69c45241af28b73.svg" alt="Metrics" />
+</a>
+
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
