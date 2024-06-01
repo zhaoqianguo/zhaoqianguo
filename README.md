@@ -27,6 +27,15 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+Other        15 hrs 20 mins  ███████████████████░░░░░░   76.36 %
+TypeScript   2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+JavaScript   1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com/@daxigua">
