@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   20 mins         █████████████░░░░░░░░░░░░   52.25 %
-Vue.js       18 mins         ███████████▓░░░░░░░░░░░░░   46.79 %
-Git          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
