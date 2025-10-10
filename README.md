@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       7 mins          ████████████████████▓░░░░   82.78 %
+JavaScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Vue.js       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->
